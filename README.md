@@ -82,11 +82,12 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Switch](https://amzn.to/2GV3rFZ) by Dan Heath, Chip Heath, Charles Kahlenberg  
 [HBR's 10 Must Reads on Change Management](https://amzn.to/2NBBu6S) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne  
 
-#### Agile Methodologies
 
-[Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland  
-[Essential Scrum](https://amzn.to/2Ugg41t) by Kenneth S. Rubin  
-[Agile Retrospectives](https://amzn.to/2XsnwbQ) by Esther Derby, Diana Larsen, and Ken Schwaber  
+| Agile Methodologies      |  |  |
+| ------------- |:-------------:| -----:|
+| [Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland | 📘 | 🎧 |
+| [Essential Scrum](https://amzn.to/2Ugg41t) by Kenneth S. Rubin | 📘 | 🎧 |
+| [Agile Retrospectives](https://amzn.to/2XsnwbQ) by Esther Derby, Diana Larsen, and Ken Schwaber   | 📘 | 🎧 |
 
 #### Communication
 
