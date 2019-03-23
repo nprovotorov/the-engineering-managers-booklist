@@ -36,18 +36,18 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 #### Management
 
 [Building Great Software Engineering Teams](https://amzn.to/2ExjxDi) by Joshua Tyler [📘](https://amzn.to/2ExjxDi)  
-[The Manager's Path](https://amzn.to/2XmUJW2) by Camille Fournier [📘](https://amzn.to/2XmUJW2)  
+~~[The Manager's Path](https://amzn.to/2XmUJW2) by Camille Fournier [📘](https://amzn.to/2XmUJW2)  ~~
 [Death by Meeting](https://amzn.to/2Exzfyq) by Patrick M. Lencioni [📘](https://amzn.to/2Exzfyq)  
-[High Output Management](https://amzn.to/2tGnM9m) by Andrew S. Grove [📘](https://amzn.to/2tGnM9m)  
+~~[High Output Management](https://amzn.to/2tGnM9m) by Andrew S. Grove [📘](https://amzn.to/2tGnM9m)  ~~
 [Managing Humans](https://amzn.to/2BRGJdK) by Michael Lopp [📘](https://amzn.to/2BRGJdK)  
 [Managing Oneself](https://amzn.to/2VtSb75) by Peter Drucker [📘](https://amzn.to/2VtSb75)  
 [The ONE Thing](https://amzn.to/2EzHIkT) by Gary Keller and Jay Papasan [📘](https://amzn.to/2EzHIkT)  
 [Radical Focus](https://amzn.to/2EiDFYC) by Christina Wodtke [📘](https://amzn.to/2EiDFYC) [🎧](https://amzn.to/2SSsVFR)  
 [The Advantage](https://amzn.to/2H7MCXF) by Patrick Lencioni [📘](https://amzn.to/2H7MCXF)  
-[Management 3.0](https://amzn.to/2HaqDzH) by Jurgen Appelo [📘](https://amzn.to/2HaqDzH)  
+~~[Management 3.0](https://amzn.to/2HaqDzH) by Jurgen Appelo [📘](https://amzn.to/2HaqDzH)  ~~
 [Growing Software](https://amzn.to/2BVxNnQ) by Louis Testa [📘](https://amzn.to/2BVxNnQ)  
 [Principles of Software Engineering Management](https://amzn.to/2tDZpJA) by Tom Glib [📘](https://amzn.to/2tDZpJA)  
-[The Goal](https://amzn.to/2T81QU9) by Eliyahu M. Goldratt and Jeff Cox [📘](https://amzn.to/2T81QU9)  
+~~[The Goal](https://amzn.to/2T81QU9) by Eliyahu M. Goldratt and Jeff Cox [📘](https://amzn.to/2T81QU9)  ~~
 [Managing the Unmanageable](https://amzn.to/2tKuECF) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2tKuECF)  
 [Behind Closed Doors](https://amzn.to/2VpHqCx) by Johanna Rothman and Esther Derby [📘](https://amzn.to/2VpHqCx)  
 
@@ -57,21 +57,21 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [The Score Takes Care of Itself](https://amzn.to/2SxnVGj) by Bill Walsh, Steve Jamison, and Craig Walsh [📘](https://amzn.to/2SxnVGj)  
 [Leadership is an Art](https://amzn.to/2Ewby8H) from Max Depree [📘](https://amzn.to/2Ewby8H)  
 [Radical Candor](https://amzn.to/2SyNab8) by Kim Scott [📘](https://amzn.to/2SyNab8)  
-[Developing the Leader Within You](https://amzn.to/2tMDRdH) by John C. Maxwell [📘](https://amzn.to/2tMDRdH)  
+~~[Developing the Leader Within You](https://amzn.to/2tMDRdH) by John C. Maxwell [📘](https://amzn.to/2tMDRdH)  ~~
 
 #### People
 
-[Peopleware](https://amzn.to/2tHmz1Q) by Tom DeMarco and Tim Lister [📘](https://amzn.to/2tHmz1Q)  
-[The Mythical Man-Month](https://amzn.to/2C00XlT) by Frederick P. Brooks Jr. [📘](https://amzn.to/2C00XlT)  
-[How to Win Friends and Influence People](https://amzn.to/2EsNV0J) by Dale Carnegie [📘](https://amzn.to/2EsNV0J) [🎧](https://amzn.to/2HxnVVX)
+~~[Peopleware](https://amzn.to/2tHmz1Q) by Tom DeMarco and Tim Lister [📘](https://amzn.to/2tHmz1Q)  ~~
+~~[The Mythical Man-Month](https://amzn.to/2C00XlT) by Frederick P. Brooks Jr. [📘](https://amzn.to/2C00XlT)  
+[How to Win Friends and Influence People](https://amzn.to/2EsNV0J) by Dale Carnegie [📘](https://amzn.to/2EsNV0J) [🎧](https://amzn.to/2HxnVVX)~~
 
 #### Culture
 
 [It Doesn't Have to Be Crazy at Work](https://amzn.to/2EnPNI4) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2EnPNI4)  
 [The Hard Thing About Hard Things](https://amzn.to/2Es7p5m) by Ben Horowitz [📘](https://amzn.to/2Es7p5m)  
-[Good to Great](https://amzn.to/2Xu9WER) by Jim Collins [📘](https://amzn.to/2Xu9WER)  
+~~[Good to Great](https://amzn.to/2Xu9WER) by Jim Collins [📘](https://amzn.to/2Xu9WER)  ~~
 [How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle [📘](https://amzn.to/2GU9sTo) [🎧](https://amzn.to/2Tojazq)  
-[Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2TaCpRx)  
+~~[Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2TaCpRx)  ~~
 [Slack](https://amzn.to/2Xw0twR) by Tom DeMarco [📘](https://amzn.to/2Xw0twR)  
 [The Five Dysfunctions of a Team](https://amzn.to/2NBtlPK) by Patrick Lencioni [📘](https://amzn.to/2NBtlPK)  
 [Brotopia](https://amzn.to/2SDVmai) by Emily Chang [📘](https://amzn.to/2SDVmai)  
@@ -84,7 +84,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Agile Methodologies
 
-[Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland [📘](https://amzn.to/2IXg2uu) [🎧](https://amzn.to/2SOhpuO)  
+~~[Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland [📘](https://amzn.to/2IXg2uu) [🎧](https://amzn.to/2SOhpuO)  ~~
 [Essential Scrum](https://amzn.to/2Ugg41t) by Kenneth S. Rubin [📘](https://amzn.to/2Ugg41t)  
 [Agile Retrospectives](https://amzn.to/2XsnwbQ) by Esther Derby, Diana Larsen, and Ken Schwaber [📘](https://amzn.to/2XsnwbQ)  
 
@@ -101,12 +101,12 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Software Engineering
 
-[The Pragmatic Programmer](https://amzn.to/2tNfTz5) by Andrew Hunt and David Thomas [📘](https://amzn.to/2tNfTz5)  
+~~[The Pragmatic Programmer](https://amzn.to/2tNfTz5) by Andrew Hunt and David Thomas [📘](https://amzn.to/2tNfTz5)  ~~
 [The Effective Engineer](https://amzn.to/2ExGNjo) by Edmond Lau [📘](https://amzn.to/2ExGNjo)  
-[Rapid Development](https://amzn.to/2GXwity) by Steve McConnell [📘](https://amzn.to/2GXwity)  
+~~[Rapid Development](https://amzn.to/2GXwity) by Steve McConnell [📘](https://amzn.to/2GXwity)  
 [Software Estimation](https://amzn.to/2HcWjEm) by Steve McConnell [📘](https://amzn.to/2HcWjEm)  
 [Software Project Survival Guide](https://amzn.to/2EHMBZd) by Steve McConnell [📘](https://amzn.to/2EHMBZd)  
-[Code Complete](https://amzn.to/2UmpOr6) by Steve McConnell [📘](https://amzn.to/2UmpOr6)  
+[Code Complete](https://amzn.to/2UmpOr6) by Steve McConnell [📘](https://amzn.to/2UmpOr6)  ~~
 
 #### Continuous Delivery / Continuous Integration
 
